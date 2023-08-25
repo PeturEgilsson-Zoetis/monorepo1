@@ -1,2 +1,2 @@
 pytest
-git+ssh://git@github.com:PeturEgilsson-Zoetis/monorepo2#subdirectory=monorepo2-three
+git+https://git@github.com/PeturEgilsson-Zoetis/monorepo2#subdirectory=monorepo2-three
