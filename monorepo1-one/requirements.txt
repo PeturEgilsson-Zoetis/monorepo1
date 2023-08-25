@@ -1,0 +1,3 @@
+../monorepo1-two
+websockets
+git+ssh://git@github.com:PeturEgilsson-Zoetis/repo1
